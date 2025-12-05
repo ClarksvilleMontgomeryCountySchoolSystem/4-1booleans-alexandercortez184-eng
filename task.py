@@ -45,4 +45,4 @@ is_awake = False            # Clear: not awake (sleepy)
 
 
 # Try changing the values above and running the code!
-# Notice how positive variable names stay clear no matter the value.# Paste code below then Commit changes [green button]
+# Notice how positive variable names stay clear no matter the value.
